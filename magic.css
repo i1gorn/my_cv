@@ -1,0 +1,61 @@
+/*Обнуление*/
+.text {
+	color: #333333;
+	line-height: 25px;
+}
+.bold {
+	color: #333333;
+	font-weight: 700;
+}
+.red {
+	color: #ff0000;
+}
+
+.color {
+	color: blue;
+}
+.arial {
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,212,255,1) 100%);
+}
+
+.icons {
+	width: 30px;
+	overflow: hidden;
+	height: 30px;
+	border-radius: 30px;
+	text-align: left;
+}
+
+.image {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+
+.example {
+	position: absolute;
+	top: 250px;
+	left: 350px;
+}
+.education {
+	position: absolute;
+	top: 355px;
+	left: 350px;
+}
+.interests {
+	position: absolute;
+	top: 1010px;
+	left: 350px;
+}
+.title {
+	font-family: impact, fantasy, sans-serif;
+	color: red;
+	font-size: 50pt;
+}
+.details {
+	font-family: impact, fantasy, sans-serif;
+	color: red;
+	font-size: 20pt;
+}
